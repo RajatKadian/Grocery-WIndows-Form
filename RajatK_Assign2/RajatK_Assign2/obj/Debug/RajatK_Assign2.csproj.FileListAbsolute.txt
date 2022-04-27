@@ -1,0 +1,11 @@
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.csproj.AssemblyReference.cache
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.Form1.resources
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.Properties.Resources.resources
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.csproj.GenerateResource.cache
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.csproj.CoreCompileInputs.cache
+D:\RajatK_Assign2\RajatK_Assign2\bin\Debug\RajatK_Assign2.exe.config
+D:\RajatK_Assign2\RajatK_Assign2\bin\Debug\RajatK_Assign2.exe
+D:\RajatK_Assign2\RajatK_Assign2\bin\Debug\RajatK_Assign2.pdb
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.exe
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.pdb
+D:\RajatK_Assign2\RajatK_Assign2\obj\Debug\RajatK_Assign2.csproj.SuggestedBindingRedirects.cache
